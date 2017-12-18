@@ -5,6 +5,7 @@ Background: using Ubuntu 17.10 Live image in a Virtual Box machine
 
 1) added the version-check.sh
 output: 
+```
 bash, version 4.4.12(1)-release
 /bin/sh -> /bin/dash
 ERROR: /bin/sh does not point to bash
@@ -34,10 +35,15 @@ tar (GNU tar) 1.29
 xz (XZ Utils) 5.2.2
 ./version-check.sh: line 50: g++: command not found
 g++ compilation failed
+```
 
 2) linking /bin/sh to /bin/bash
-# rm /bin/sh
-# ln -s /bin/bash /bin/sh
+```
+rm /bin/sh
+ln -s /bin/bash /bin/sh
+```
 
 3) installing Bison
-# apt-get install bison
+```
+apt-get install bison
+```
