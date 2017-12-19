@@ -47,3 +47,12 @@ ln -s /bin/bash /bin/sh
 ```
 apt-get install bison
 ```
+4) daeling with awk & gawk
+```
+apt-get install gawk
+rm /usr/bin/awk && ln -s /usr/bin/gawk /usr/bin/awk
+```
+5) gcc and g++
+```
+apt-get install gcc g++ make
+```
