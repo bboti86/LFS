@@ -1,25 +1,19 @@
-bash, version 4.4.12(1)-release
-/bin/sh -> /bin/bash
-Binutils: (GNU Binutils for Ubuntu) 2.29.1
-bison (GNU Bison) 3.0.4
-/usr/bin/yacc -> /usr/bin/bison.yacc
-bzip2,  Version 1.0.6, 6-Sept-2010.
-Coreutils:  8.26
-diff (GNU diffutils) 3.6
-find (GNU findutils) 4.7.0-git
-GNU Awk 4.1.4, API: 1.1 (GNU MPFR 3.1.6, GNU MP 6.1.2)
+bash, version 5.0.16(1)-release
+/bin/sh -> /usr/bin/bash
+Binutils: yacc not found
+bzip2,  Version 1.0.8, 13-Jul-2019.
+Coreutils:  8.31
+diff (GNU diffutils) 3.7
+find (GNU findutils) 4.7.0
+GNU Awk 5.0.1, API: 2.0 (GNU MPFR 4.0.2, GNU MP 6.2.0)
 /usr/bin/awk -> /usr/bin/gawk
-gcc (Ubuntu 7.2.0-8ubuntu3) 7.2.0
-g++ (Ubuntu 7.2.0-8ubuntu3) 7.2.0
-(Ubuntu GLIBC 2.26-0ubuntu2) 2.26
-grep (GNU grep) 3.1
-gzip 1.6
-Linux version 4.13.0-16-generic (buildd@lcy01-02) (gcc version 7.2.0 (Ubuntu 7.2.0-8ubuntu2)) #19-Ubuntu SMP Wed Oct 11 18:35:14 UTC 2017
-m4 (GNU M4) 1.4.18
-GNU Make 4.1
-GNU patch 2.7.5
-Perl version='5.26.0';
-sed (GNU sed) 4.4
-tar (GNU tar) 1.29
-xz (XZ Utils) 5.2.2
-g++ compilation OK
+(GNU libc) 2.31
+grep (GNU grep) 3.4
+gzip 1.10
+Linux version 5.5.13-arch2-1 (linux@archlinux) (gcc version 9.3.0 (Arch Linux 9.3.0-1)) #1 SMP PREEMPT Mon, 30 Mar 2020 20:42:41 +0000
+Perl version='5.30.2';
+sed (GNU sed) 4.8
+tar (GNU tar) 1.32
+texi2any (GNU texinfo) 6.7
+xz (XZ Utils) 5.2.5
+g++ compilation failed
