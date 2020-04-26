@@ -1,8 +1,0 @@
-./version-check.sh: line 10: ld: command not found
-./version-check.sh: line 11: bison: command not found
-./version-check.sh: line 35: gcc: command not found
-./version-check.sh: line 36: g++: command not found
-./version-check.sh: line 41: m4: command not found
-./version-check.sh: line 42: make: command not found
-./version-check.sh: line 43: patch: command not found
-./version-check.sh: line 50: g++: command not found
